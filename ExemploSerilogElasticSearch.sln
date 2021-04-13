@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExemploSerilogElasticSearch", "ExemploSerilogElasticSearch\ExemploSerilogElasticSearch.csproj", "{5AC592AB-4F6B-4F18-B4E1-E7531FE0C853}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5AC592AB-4F6B-4F18-B4E1-E7531FE0C853}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AC592AB-4F6B-4F18-B4E1-E7531FE0C853}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AC592AB-4F6B-4F18-B4E1-E7531FE0C853}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AC592AB-4F6B-4F18-B4E1-E7531FE0C853}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3E1E37EF-D2B8-4CDD-A0AC-4075FA2FEDE8}
+	EndGlobalSection
+EndGlobal
